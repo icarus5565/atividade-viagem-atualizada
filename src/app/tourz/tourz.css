@@ -1,0 +1,27 @@
+.titulowhy{
+
+    display: flex;
+ margin-left: 410px;
+ margin-top: 80px;
+}
+.whytamanho{
+    font-size: 35px;
+}
+.ppp{
+width: 200px;
+height: 200px;
+}
+.aberturaestrutura{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+
+}
+.trentxteimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    
+}
